@@ -6,4 +6,6 @@
 ## Check the webapp for Candidate Matchmaking model
 [Deployment link](https://candidateselectionmodel.herokuapp.com)
 
+![4g3xj6](https://user-images.githubusercontent.com/65168906/94141757-db83a080-fe8a-11ea-924f-222160f48cc8.gif)
+
 
